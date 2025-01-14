@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Мал. зелье",
+        "type": "potion",
+        "rarity": "common",
+        "width": 1,
+        "height": 1,
+        "position": { "x": 0, "y": 0 }
+    },
+    {
+        "id": 2,
+        "name": "Деревянный шлем",
+        "type": "equipment",
+        "rarity": "common",
+        "width": 2,
+        "height": 2,
+        "position": { "x": 1, "y": 0 }
+    },
+    {
+        "id": 3,
+        "name": "Железный меч",
+        "type": "weapon",
+        "rarity": "rare",
+        "width": 3,
+        "height": 2,
+        "position": { "x": 0, "y": 2 }
+    },
+    {
+        "id": 4,
+        "name": "Ср. зелье",
+        "type": "potion",
+        "rarity": "rare",
+        "width": 1,
+        "height": 2,
+        "position": { "x": 0, "y": 4 }
+    },
+    {
+        "id": 5,
+        "name": "Посох боли",
+        "type": "weapon",
+        "rarity": "epic",
+        "width": 2,
+        "height": 5,
+        "position": { "x": 3, "y": 0 }
+    }
+]

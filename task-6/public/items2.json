@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Бол. зелье",
+        "type": "potion",
+        "rarity": "epic",
+        "width": 1,
+        "height": 3,
+        "position": { "x": 1, "y": 0 }
+    },
+    {
+        "id": 2,
+        "name": "Кожаный доспех",
+        "type": "equipment",
+        "rarity": "common",
+        "width": 2,
+        "height": 3,
+        "position": { "x": 4, "y": 0 }
+    },
+    {
+        "id": 3,
+        "name": "Серебряный кинжал",
+        "type": "weapon",
+        "rarity": "rare",
+        "width": 2,
+        "height": 1,
+        "position": { "x": 1, "y": 4 }
+    },
+    {
+        "id": 4,
+        "name": "Мал. зелье",
+        "type": "potion",
+        "rarity": "common",
+        "width": 1,
+        "height": 1,
+        "position": { "x": 0, "y": 5 }
+    },
+    {
+        "id": 5,
+        "name": "Молот грома",
+        "type": "weapon",
+        "rarity": "epic",
+        "width": 2,
+        "height": 3,
+        "position": { "x": 3, "y": 3 }
+    }
+]

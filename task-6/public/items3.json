@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Маленький щит",
+        "type": "equipment",
+        "rarity": "common",
+        "width": 2,
+        "height": 2,
+        "position": { "x": 1, "y": 1 }
+    },
+    {
+        "id": 2,
+        "name": "Ср. зелье",
+        "type": "potion",
+        "rarity": "rare",
+        "width": 1,
+        "height": 2,
+        "position": { "x": 0, "y": 3 }
+    },
+    {
+        "id": 3,
+        "name": "Длинный лук",
+        "type": "weapon",
+        "rarity": "common",
+        "width": 2,
+        "height": 3,
+        "position": { "x": 6, "y": 0 }
+    },
+    {
+        "id": 4,
+        "name": "Шлем паладина",
+        "type": "equipment",
+        "rarity": "epic",
+        "width": 2,
+        "height": 2,
+        "position": { "x": 4, "y": 2 }
+    },
+    {
+        "id": 5,
+        "name": "Зелье скорости",
+        "type": "potion",
+        "rarity": "epic",
+        "width": 2,
+        "height": 1,
+        "position": { "x": 3, "y": 5 }
+    }
+]

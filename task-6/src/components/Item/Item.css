@@ -1,0 +1,18 @@
+.item {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    border: 3px solid #333;
+    z-index: 1;
+}
+
+.item-common { background-color: #999; }
+.item-rare { background-color: #33f; }
+.item-epic { background-color: #90f; }
+
+.item-potion { border-color: green; }
+.item-equipment { border-color: orange; }
+.item-weapon { border-color: red; }
